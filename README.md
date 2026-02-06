@@ -37,8 +37,9 @@ Installation & Usage
 1. Prerequisites
     Python 3.10 & Git
 2. Setup
+   '''bash
    # Clone the repository
-    git clone https://github.com/YOUR_USERNAME/Blockchain-Fraud-Detection.git
+    git clone https://github.com/HYPETAN/Blockchain-Fraud-Detection.git
     cd Blockchain-Fraud-Detection
 
     # Create a virtual environment (Recommended)
@@ -47,6 +48,7 @@ Installation & Usage
 
     # Install dependencies
     pip install -r requirements.txt
+   '''
    
 4. Run Inference
    To simulate a live batch of transactions and detect fraud:
