@@ -1,0 +1,18 @@
+# Core AI & Deep Learning
+tensorflow>=2.10.0
+keras>=2.10.0
+
+# Data Manipulation & Math
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Preprocessing & Utilities
+scikit-learn>=1.2.0
+joblib>=1.2.0
+
+# Visualization (For Notebooks)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Development Tools
+jupyter>=1.0.0

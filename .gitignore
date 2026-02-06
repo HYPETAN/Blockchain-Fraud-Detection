@@ -1,0 +1,35 @@
+# --- Python General ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# --- Environments ---
+env/
+venv/
+.env
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+
+# --- IDE Settings (VS Code, etc) ---
+.vscode/
+.idea/
+*.swp
+
+# --- Project Data ---
+# Ignore large CSV files to keep the repo light
+#data/*.csv
+#data/*.zip
+#data/*.tar.gz
+
+# --- Models ---
+# We usually commit small models (<100MB) so the repo works out-of-the-box.
+# If your model grows >100MB, uncomment the lines below:
+# models/*.h5
+# models/*.pkl
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
